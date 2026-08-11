@@ -8,16 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=900&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%E2%9C%A6+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%2F+%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82;%E2%9C%A6+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+%D1%82%D1%91%D0%BC%D0%BD%D1%8B%D0%B5+%D1%82%D0%B5%D0%BC%D1%8B;%E2%9C%A6+%D0%BF%D0%B8%D1%88%D1%83+%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4;%E2%9C%A6+sh4rpy+%D0%B2+%D1%81%D0%B5%D1%82%D0%B8" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/sh4rpy-cc.svg?style=flat-square&label=посещений&color=00BFFF&labelColor=1a1a1a" alt="счётчик посещений" />
-</p>
-
 ---
 
 <div align="center">
   
   <a href="https://github.com/sh4rpy-cc">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=00BFFF" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
   <a href="https://t.me/adapterryta">
@@ -27,18 +23,6 @@
   <a href="mailto:nirkolovdifzii@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sh4rpy-cc&show_icons=true&theme=dark&bg_color=101010&title_color=00BFFF&icon_color=00BFFF&text_color=eee" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh4rpy-cc&theme=dark&background=101010&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rpy-cc&layout=compact&theme=dark&bg_color=101010&title_color=00BFFF&text_color=eee" alt="Top Languages" />
   
 </div>
 
